@@ -20,6 +20,7 @@ Navigate to http://testnet.local:3000 or http://publicnet.local:3000 to select t
 
 ## Development
 
+
 See the section [Exploring Private / Local Development Networks](#private-networks) for connecting to different backend networks. By default steexp will look for a local instance of horizon.
 
 Start:
